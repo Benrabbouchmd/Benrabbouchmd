@@ -1,9 +1,14 @@
-![logo](https://github.com/Benrabbouchmd/Benrabbouchmd/blob/main/perseverance.jpg)
+<p align="center">
+  <img src="https://github.com/Benrabbouchmd/Benrabbouchmd/blob/main/img/perseverance.jpg" width='100%' alt="logo">
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhia</h1>
 <h3 align="center">📡 Telecommunication Engineer | 💻 Full Stack Engineer</h3>
 
+<img align="right" alt="Penguin Chillin." width="350" src="img/Fire.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrabbouchmd&label=Profile%20views&color=0e75b6&style=flat" alt="benrabbouchmd" /> </p>
 
+  
 - 🔭 I’m currently working on [Text Annotation](https://ubiai.tools/)
 
 - 🌱 I’m currently learning **IA**
@@ -11,6 +16,7 @@
 - 💬 Ask me about **React JavaScript Django Angular**
 
 - 📫 How to reach me **benrabouchmd@gmail.com**
+
 
 ## Skills
 
@@ -40,18 +46,22 @@
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="babel" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="babel" />
   </p>
-  
-## Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-dhia" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="babel" />
-</a>
-<!-- <a href="https://codeforces.com/profile/hannen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hannen" height="30" width="40" /></a> -->
-</p>
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benrabbouchmd&show_icons=true&locale=en&layout=compact" alt="benrabbouchmd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benrabbouchmd&show_icons=true&locale=en" alt="benrabbouchmd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benrabbouchmd&" alt="benrabbouchmd" /></p>
+
+## Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-dhia" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="babel" />
+</a>
+<a href="mailto:benrabouchmd@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="babel" />
+</a>
+</p>
