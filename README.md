@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhia</h1>
-<h3 align="center">📡 T💻 Software Engineer</h3>
+<h3 align="center">💻 Software Engineer</h3>
 
 <img align="right" alt="Penguin Chillin." width="350" src="img/Fire.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrabbouchmd&label=Profile%20views&color=0e75b6&style=flat" alt="benrabbouchmd" /> </p>
