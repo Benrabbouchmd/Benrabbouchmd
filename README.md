@@ -45,19 +45,19 @@
 
 ## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benrabbouchmd&show_icons=true&locale=en&layout=compact" alt="benrabbouchmd" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benrabbouchmd&show_icons=true&locale=en&layout=compact" alt="benrabbouchmd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benrabbouchmd&show_icons=true&locale=en" alt="benrabbouchmd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benrabbouchmd&show_icons=true&locale=en" alt="benrabbouchmd" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benrabbouchmd&" alt="benrabbouchmd" /></p>
 
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-dhia" target="blank">
+<a href="https://linkedin.com/in/meddhia-rabouch" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="babel" />
 </a>
-<a href="mailto:benrabouchmd@gmail.com" target="blank">
+<a href="mailto:meddhiabr@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="babel" />
 </a>
 </p>
